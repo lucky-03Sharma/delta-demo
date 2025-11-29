@@ -1,2 +1,2 @@
 # delta-demo
-my git pracitce
+# My git practice .
